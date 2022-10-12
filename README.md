@@ -8,37 +8,37 @@
  <hr></hr>
  
  <h2> Overview </h2>
-<p> Ari the Fox, takes you along on his very own intergalactic journey between two Universes, also known as his Fauna. 
-Along with Ari, you can enjoy discovering his two natural habitats including pertinent orchestral melodies. </p>
+ <p> Ari the Fox, takes you along on his very own intergalactic journey between two Universes, also known as his Fauna. 
+ Along with Ari, you can enjoy discovering his two natural habitats including pertinent orchestral melodies. </p>
 
-<p> Features: </p>
-<ul>
-  <li> A variey of vibrant visual effects using baked lightmapping & skyboxes </li>
-  <li> Rigged Fox model for animations </li>
-  <li> Two maps designed with Terrain Tools </li>
-  <li> Particles and meteor keyframe animations to simulate a more realistic environment </li> 
-</ul>
+ <p> Features: </p>
+ <ul>
+   <li> A variey of vibrant visual effects using baked lightmapping & skyboxes </li>
+   <li> Rigged Fox model for animations </li>
+   <li> Two maps designed with Terrain Tools </li>
+   <li> Particles and meteor keyframe animations to simulate a more realistic environment </li> 
+ </ul>
 
-<h2> Controls </h2>
-<p> Use WASD keys to move forward, left, backwards, and right. </p>
-<p> Use the mouse to position camera angle and press spacebar to jump </p>
-<p> Use "O" and "P" keys to switch between maps </p>
+ <h2> Controls </h2>
+ <p> Use WASD keys to move forward, left, backwards, and right. </p>
+ <p> Use the mouse to position camera angle and press spacebar to jump </p>
+ <p> Use "O" and "P" keys to switch between maps </p>
 
-<h2> System & Compatibility </h2>
-<p> This game was created using the Unity Game Engine along with C# scripting. </p>
-<ul>
-  <li> Windows </li>
-  <li> macOS (unstable) </li>
-</ul>
+ <h2> System & Compatibility </h2>
+ <p> This game was created using the Unity Game Engine along with C# scripting. </p>
+ <ul>
+   <li> Windows </li>
+   <li> macOS (unstable) </li>
+ </ul>
 
-<h2> Installation </h2>
-<p>  Download Assets & Scripts folder if you want to contribute to the project </p>
-<p>  Download Ari's Fauna folder if you want to play the game </p>
+ <h2> Installation </h2>
+ <p>  Download Assets & Scripts folder if you want to contribute to the project </p>
+ <p>  Download Ari's Fauna folder if you want to play the game </p>
 
-<h2> Developers </h2>
-<p> John Dang </p>
-<p> Anna Hock </p>
-<p> Tuan Tran </p>
+ <h2> Developers </h2>
+ <p> John Dang </p>
+ <p> Anna Hock </p>
+ <p> Tuan Tran </p>
 
 
 
