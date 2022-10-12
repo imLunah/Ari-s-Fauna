@@ -1,6 +1,8 @@
 # Ari's-Fauna
  <hr></hr>
  
+ <img src="https://user-images.githubusercontent.com/77595303/195328321-2c5baab2-c601-44ab-ae50-d08ca12e0f2f.jpg" style="width: 80%;">
+ 
  <h2> Notice </h2>
  <p> This page is still in development </p>
  <hr></hr>
