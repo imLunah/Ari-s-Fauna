@@ -19,6 +19,9 @@ Along with Ari, you can enjoy discovering his two natural habitats including per
   <li> Particles and meteor keyframe animations to simulate a more realistic environment </li> 
 </ul>
 
+<h2> Installation </h2>
+<p> :) </p>
+
 
 
 
