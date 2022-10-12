@@ -20,7 +20,13 @@ Along with Ari, you can enjoy discovering his two natural habitats including per
 </ul>
 
 <h2> Installation </h2>
-<p> :) </p>
+<p>  Download Scripts folder if you want to contribute to the source code </p>
+<p>  Download Ari's Fauna folder if you want to play the game </p>
+
+<h2> Developers </h2>
+<p> John Dang </p>
+<p> Anna Hock </p>
+<p> Tuan Tran </p>
 
 
 
