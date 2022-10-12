@@ -9,7 +9,7 @@
  
  <h2> Overview </h2>
 <p> Ari the Fox, takes you along on his very own intergalactic journey between two Universes, also known as his Fauna. 
-Along with Ari, you can enjoy discovering his two natural habitats including pertinent orchestral melodies </p>
+Along with Ari, you can enjoy discovering his two natural habitats including pertinent orchestral melodies. </p>
 
 <p> Features: </p>
 <ul>
