@@ -28,7 +28,7 @@
  <p> This game was created using the Unity Game Engine along with C# scripting. </p>
  <ul>
    <li> Windows </li>
-   <li> macOS (unstable) </li>
+   <li> macOS (currently not supported) </li>
  </ul>
 
  <h2> Installation </h2>
