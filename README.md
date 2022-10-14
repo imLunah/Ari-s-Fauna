@@ -14,8 +14,8 @@
  <p> Features: </p>
  <ul>
    <li> A variey of vibrant visual effects using baked lightmapping & skyboxes </li>
-   <li> Rigged Fox model for animations </li>
-   <li> Two maps designed with Terrain Tools </li>
+   <li> Custom animations from rigged fox model </li>
+   <li> Two maps designed using the terrain tools package </li>
    <li> Particles and meteor keyframe animations to simulate a more realistic environment </li> 
  </ul>
 
