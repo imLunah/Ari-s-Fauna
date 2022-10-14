@@ -25,7 +25,7 @@
  <p> Use "O" and "P" keys to switch between maps </p>
 
  <h2> System & Compatibility </h2>
- <p> This game was created using the Unity Game Engine along with C# scripting. </p>
+ <p> This game was developed with the Unity Game Engine along with C# scripting. </p>
  <ul>
    <li> Windows </li>
    <li> macOS (currently not supported) </li>
