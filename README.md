@@ -30,7 +30,7 @@
  </ul>
 
  <h2> Installation </h2>
- <p>  Download Assets & Scripts folder if you want to contribute to the project </p>
+ <p>  Fork and clone this to your local machine if you want to contribute to the project </p>
  <p>  Download Ari's Fauna folder if you want to play the game </p>
 
  <h2> Developers </h2>
